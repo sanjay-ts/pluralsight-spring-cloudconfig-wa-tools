@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: custom-actions-1
 on: [push]
 jobs:
   build:
